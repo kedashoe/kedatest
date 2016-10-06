@@ -1,0 +1,15 @@
+{
+  "name": "kedatest",
+  "version": "0.1.0",
+  "description": "kedatest",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "gh-kedashoe:kedashoe/kedatest.git"
+  },
+  "author": "",
+  "license": "MIT"
+}
