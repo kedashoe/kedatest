@@ -6,10 +6,17 @@
   "files": [
     "index.js"
   ],
+  "scripts": {
+    "test": "./node_modules/.bin/ava"
+  },
   "repository": {
     "type": "git",
     "url": "gh-kedashoe:kedashoe/kedatest.git"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^6.1.3",
+    "xyz": "^5.0.0"
+  }
 }
